@@ -1,3 +1,7 @@
 hii there
 adding changes to the file 😂
+<<<<<<< HEAD
 adding another changes to this file
+=======
+again adding some changes 🤣
+>>>>>>> a3c4165a2432d0841dc1858c9c185927bc3436ed
